@@ -1,6 +1,6 @@
 # Fake_PTA_data
 ## Instructions
-* Store all the pulsars along with their precise RA and Dec obtained from the output of the ```random_psr.ipynb``` notebook.
+* Store all the pulsars along with their precise RA and Dec obtained from the output of the ```random_psr.ipynb``` notebook (created by Debabrata).
 * The MPTA real dataset can be found [here](https://dmc.datacentral.org.au/dataset/meerkat-pulsar-timing-array-mpta-first-data-release). 
 * Let's say you intend to generate 10 years of fake data for an arbitrary pulsar. First, change the name of the pulsar and set the corresponding RA and  Dec properly in the arbitrary parameter (par) file. 
 Using distinct ```par``` files for each set of new pulsars is advisable whenever feasible.
