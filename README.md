@@ -7,4 +7,4 @@
 * Now, execute the ```inj.ipynb``` notebook for each pulsar, which will then store the injected parameters along with data files in the newly created directory.
 
 ## Required PTA environment
-* The enterprise installation instructions with all packages required for recent PTA analysis can be found [here](https://docs.google.com/document/d/13QHfcqVMBhYbE-bt_qSMlhcDBkS0wYEd60VNhlae26A/edit?usp=sharing).
+* The complete PTA environment installation instructions with all packages required for recent PTA analysis can be found [here](https://docs.google.com/document/d/13QHfcqVMBhYbE-bt_qSMlhcDBkS0wYEd60VNhlae26A/edit?usp=sharing).
