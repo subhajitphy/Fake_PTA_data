@@ -1,0 +1,41 @@
+PSRJ           J1216-6410
+RAJ            12:16:07.3215542            
+DECJ           -64:10:09.16746             
+F0             282.53570143084010624     1  0.00000000201208463908   
+F1             -1.272332707539907649e-16 1  3.9806547522449832998e-21
+PEPOCH         59019                       
+POSEPOCH       59019                       
+DMEPOCH        59019                       
+DM             48.582610451515499506     1  2.22986746819750392135   
+DM1            0.054490156329972352922   1  0.11233188404960349482   
+PMRA           -7.9074787191814961095      
+PMDEC          2.887251688531471279        
+PX             0.8201974691303651788       
+BINARY         ELL1
+PB             4.0367272525312557817       
+A1             2.9370918224833700723       
+TASC           53055.361260738780324       
+EPS1           1.5570803316983460976e-07   
+EPS2           -5.5826240031543714393e-06   
+START          58557.207305490182961       
+FINISH         59482.29647409749191        
+TRACK          -2                          
+TZRMJD         53660.017444653446766       
+TZRFRQ         1440                     
+TZRSITE        7   
+TRES           0.997        
+EPHVER         5                           
+NE_SW          4                           
+CLK            TT(BIPM2019)
+MODE 1
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE438
+NITS           1
+NTOA           0
+CHI2R          -nan 0
+TNSECORR -f KAT_MKBF 0

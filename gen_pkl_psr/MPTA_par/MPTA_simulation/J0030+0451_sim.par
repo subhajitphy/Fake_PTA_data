@@ -1,0 +1,34 @@
+PSRJ           J0030+0451
+ELONG          8.9103390857769517495803879   
+ELAT           1.4457045516053376132915506   
+F0             205.53069578485602165     1  0.00000000085395356671   
+F1             -4.3013541754766633928e-16 1  2.8986302860729013451e-21
+PEPOCH         59114                       
+POSEPOCH       59114                       
+DMEPOCH        59114                       
+DM             3.0716148361244437481     1  1.32161236613115296024   
+DM1            -0.063753377003504974052  1  0.06550145878836613478   
+PMELONG        -5.6611601396473525583      
+PMELAT         5.3923684550360404897       
+PX             2.6963682334491714465       
+START          58786.964534036218001       
+FINISH         59443.02797018190422        
+TRACK          -2                          
+TZRMJD         53660.530999737467553       
+TZRFRQ         1440                     
+TZRSITE        7   
+TRES           1.185        
+EPHVER         5                           
+NE_SW          4                           
+CLK            TT(BIPM2019)
+MODE 1
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE438
+NITS           1
+NTOA           0
+CHI2R          -nan 0
