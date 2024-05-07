@@ -6,7 +6,7 @@ code = sys.argv[0]
 idx = int(sys.argv[1])
 
 #datadir="./MPTA_par/"
-datadir="../"
+datadir="./"
 psrlist=np.loadtxt(f'{datadir}/psrlist.txt',dtype=object)
 psr=psrlist[idx]
 
