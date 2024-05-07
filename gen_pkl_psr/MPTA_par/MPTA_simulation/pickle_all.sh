@@ -9,6 +9,7 @@ export KMP_BLOCKTIME=0
 
 export OMP_NUM_THREADS=1
 
+num_cpus=$(lscpu | grep '^CPU(s):' | awk '{print $2}')
 
 
 files=(*.par)
@@ -18,7 +19,7 @@ for idx in "${!files[@]}"; do
     echo "Index: $idx, File: $file"
     python create_pkl.py $idx &
     ((count++))
-    if ((count % 31 == 0)); then
+    if ((count % num_cpus == 0)); then
         wait
     fi
 done
