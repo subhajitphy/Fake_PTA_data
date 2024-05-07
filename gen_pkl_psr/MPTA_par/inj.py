@@ -27,7 +27,7 @@ tim = glob.glob(f"{datadir}/{psr}*.tim")[0]
 
 
 
-psr = lst.tempopulsar(parfile=par, timfile=tim, maxobs=64000)
+psr = lst.tempopulsar(parfile=par, timfile=tim, maxobs=100000)
 
 
 psr_ent = Pulsar(par, tim)
